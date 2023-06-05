@@ -1,19 +1,25 @@
 #Menu_bar {
 	display: grid;
-	line-height: 20px;
-	margin:15%;
-	padding:10px 20px;
+	line-height: 90px;
+	margin-left:15%;
+	margin-top: 10%;
+	font-size: 40px;
 }
 #Menu_bar a {
 	color:rgb(180,180,180);
-	text-decorations:none;
+	text-decoration:none;
 	width: max-content;
-	border-radius:10px 20px 10px 20px;
-	background-color: rgba(86,86,86,0.5);
+	padding: 10px 20px;
+	height:70%;
+	border-radius:10px 30px 30px 10px;
+	background-color: rgb(43,43,43);
 }
 #Menu_bar a:hover {
 	color:rgb(200,200,200);
-	background-color:rgba(21,21,21,0.5);
+	background-color:rgba(86,86,86,0.5);
+	font-size: 50px;
+	transition-duration: 500ms;
+	cursor: pointer;
 }
 body {
 	background-color: rgb(43,43,43);
