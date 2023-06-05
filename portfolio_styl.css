@@ -1,3 +1,6 @@
 #Menu_bar {
 	display: grid;
 }
+body {
+	background-color: #2b2b2b;
+}
