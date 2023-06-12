@@ -58,6 +58,6 @@ body {
 }
 
 #all_abt img {
-	height : "450px";
-	width : "385px";
+	max-width: 50%;
+	height: auto;
 }
