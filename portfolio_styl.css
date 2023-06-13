@@ -54,10 +54,13 @@ body {
 
 #all_abt {
 	display: flex;
-	padding:"30px";
+	margin:20px;
 }
 
 #all_abt img {
 	max-width: 50%;
 	height: auto;
+	padding:20px;
+	background:#4e4e4e;
+	border-radius:10px;
 }
