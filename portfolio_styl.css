@@ -61,7 +61,7 @@ body {
 }
 
 #mmg {
-    width:40%;
+    width:35%;
     height: auto;
     margin:0 auto;
     padding:2.5%;
@@ -84,7 +84,7 @@ body {
   }
   100% {
     opacity: 1;
-    width:40%;
+    width:35%;
   }
 }
 
