@@ -99,7 +99,7 @@ body {
 #tbl_cont tl {
     display:flex;
     height: auto;
-    line-break: 20px;
+    line-height:90px;
 }
 
 #tbl_cont a {
