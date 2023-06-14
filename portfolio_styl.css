@@ -94,12 +94,12 @@ body {
     height:100%;
     margin:15% 5%;
     justify-content: centre;
+    line-height:90px;
 }
 
 #tbl_cont tl {
     display:flex;
     height: auto;
-    line-height:90px;
 }
 
 #tbl_cont a {
@@ -108,6 +108,7 @@ body {
     border-radius:10px;
     color:#2b2b2b;
     transition-duration: 125ms;
+    text-align:center;
 }
 #tbl_cont a:hover {
     background-color: rgba(228,228,228,0.8);
