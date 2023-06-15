@@ -4,7 +4,7 @@ body {
 	background-size: 60px 60px;
 	background-position: 0 0, 30px 30px;
 	background-repeat: repeat;
-	font-size: 40px;
+	font-size: 120%;
 	font-family: helvetica;
 }
 #Homepg {
@@ -127,9 +127,8 @@ body {
 /*		Achievment		*/
 
 #all_achv {
-	display:flex;
-	margin-left:5%;
-	margin-top:5%;
+	margin:2.5%;
+	padding:2.5%;
 }
 
 /* h1 tag edit */
@@ -144,6 +143,7 @@ body {
 	transition-duration: 187ms;
 	animation: left-entry 1150ms forwards;
 	border-radius: 15px;
+	opacity:0;
 }
 
 @keyframes left-entry {
